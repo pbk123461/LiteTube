@@ -4,4 +4,4 @@ The leanset Youtube implementation on the planet. It just frames Youtube. This i
 
 Uses the very awesome Tabris.js service.
 
-Made for my darling wife with love.
+
